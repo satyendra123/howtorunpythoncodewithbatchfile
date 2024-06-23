@@ -1,0 +1,4 @@
+#step-1 open a .txt file write the below code into that and save as like a .bat file. so ek .bat file ban jayega aur jaise hi mai isko open karunga to python script run karne lagega
+@echo off
+python mkp.py
+pause
